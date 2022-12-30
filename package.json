@@ -1,0 +1,23 @@
+{
+  "name": "toxin",
+  "version": "1.0.0",
+  "description": "my-project-for-practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shpicpodshuboy/TOXIN.git"
+  },
+  "author": "Arseniy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shpicpodshuboy/TOXIN/issues"
+  },
+  "homepage": "https://github.com/shpicpodshuboy/TOXIN#readme",
+  "devDependencies": {
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1"
+  }
+}
